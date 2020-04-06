@@ -1,0 +1,31 @@
+{
+  "name": "orionserver",
+  "version": "1.0.4",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^3.0.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "express-session": "^1.17.0",
+    "xml2js": "^0.4.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://raffy27@bitbucket.org/raffy27/orion-server.git"
+  },
+  "keywords": [
+    "bot",
+    "server",
+    "botnet",
+    "https"
+  ],
+  "author": "Raffy",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/raffy27/orion-server#readme"
+}
