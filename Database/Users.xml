@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <users>
-	<user id="1" user="Raffy" pass="c375c12a08b46ca92da248025997e7c7a8ef370d80b58c51073e85d570c0e5a1" role="Master" reg="1571854417844" last="1582217911373"/>
-	<user id="2" user="dId@skaL0s13" pass="4d4ca4cd3a447822ff46120e41c007266e24e6b0aac8a1526222c3d63e866b37" role="User" reg="1580057894295"/>
+	<user id="1" user="admin" pass="8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918" role="Master"/>
 </users>
