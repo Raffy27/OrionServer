@@ -1,8 +1,9 @@
 {
   "name": "orionserver",
-  "version": "1.0.4",
+  "version": "1.5.7",
   "description": "",
   "main": "app.js",
+  "bin": "app.js",
   "dependencies": {
     "body-parser": "^1.19.0",
     "chalk": "^3.0.0",

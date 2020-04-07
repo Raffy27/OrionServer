@@ -1,7 +1,7 @@
 # Orion Server
-![Commit](https://img.shields.io/github/last-commit/Raffy/OrionBot)
-![Release](https://img.shields.io/github/v/release/Raffy27/OrionBot)
-![Issues](https://img.shields.io/github/issues/Raffy27/OrionBot)
+![Commit](https://img.shields.io/github/last-commit/Raffy27/OrionServer)
+![Release](https://img.shields.io/github/v/release/Raffy27/OrionServer)
+![Issues](https://img.shields.io/github/issues/Raffy27/OrionServer)
 ![Donate](https://img.shields.io/badge/btc-16XsRodnoCKzAWHCELxsfQRUpfviqiWbyR-blueviolet)
 
 OrionServer is the core server of a centralized and versatile remote administration tool, making use of the Tor network to communicate with its clients.
