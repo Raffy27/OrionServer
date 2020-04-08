@@ -9,6 +9,8 @@ const
 
 function parseAV(names, states){
     var tmp = [];
+    if(names.length == 1)
+        if(names[0] == undefined) return null;
     for(var i = 0; i<names.length; i++){
         tmp.push({
             $: {state: states[i]},

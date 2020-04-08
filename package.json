@@ -1,6 +1,6 @@
 {
   "name": "orionserver",
-  "version": "1.5.7",
+  "version": "1.5.7b",
   "description": "",
   "main": "app.js",
   "bin": "app.js",
