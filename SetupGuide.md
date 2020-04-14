@@ -35,7 +35,7 @@ This configuration will allow you to run the Server on a given computer, and acc
 ### Additional modules
 * The password recovery module depends on LaZagne. Get the release binary from [**the original repository**](https://github.com/AlessandroZ/LaZagne/releases) and save it as `Server\Files\lazagne.exe`.
 * The cryptocurrency mining module depends on Nanominer. Get the release archive from [**the original repository**](https://github.com/nanopool/nanominer/releases) and save it as `Server\files\miner.zip`. <details>
-    <summary>**Required structure**</summary>
+    <summary><b>Required structure</b></summary>
     
     ```txt
     miner.zip
@@ -90,7 +90,7 @@ The Panel also requires Tor access. An HTTP Tunnel should be established on port
 Orion is an educational project. The code is undergoing documentation and is freely available.
 If you like my work, please consider donating! ^^
 
-<img alt="Bitcoin" src="https://unpkg.com/simple-icons@latest/icons/bitcoin.svg" height="24">&nbsp;&nbsp;16XsRodnoCKzAWHCELxsfQRUpfviqiWbyR
+Bitcoin <img src="https://unpkg.com/simple-icons@latest/icons/bitcoin.svg" height="24" width="24">&nbsp;&nbsp;16XsRodnoCKzAWHCELxsfQRUpfviqiWbyR
 
 ## License
 This project is licensed under the MIT License -  see the <a href="https://github.com/Raffy27/OrionServer/blob/master/LICENSE" target="_blank">LICENSE</a> file for details. For the dependencies, all rights belong to their respective owners. These should be used according to their respective licenses.
