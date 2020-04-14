@@ -6,6 +6,8 @@
 
 OrionServer is the core server of a centralized and versatile remote administration tool, making use of the Tor network to communicate with its clients.
 
+## [Setup Guide](https://github.com/Raffy27/OrionServer/blob/master/SetupGuide.md)
+
 ## Features
 * Encrypted/Torified connection
 * Easy to read XML database
@@ -24,9 +26,6 @@ The default credentials are **admin - admin**.
 Dev environment:
 * Any code editor that supports JavaScript
 * node.js
-
-You need to configure your Tor Hidden Service by modifying the respective files.
-You also need an SSL Certificate. Get one for your hidden service <a href="https://www.selfsignedcertificate.com/" target="_blank">**here**</a>.
 
 ### Dependencies
 * node.js packages
@@ -49,9 +48,6 @@ Install the required modules
 cd OrionServer
 npm install
 ```
-Make sure the required external dependencies are present and up to date.
-
-Start OrionServer by running **Start.bat**.
 
 ### Structure
 ```txt
