@@ -85,12 +85,5 @@ The Panel also requires Tor access. An HTTP Tunnel should be established on port
 * If you have the private key to a custom Hidden Service (such as a [vanity address](https://github.com/cathugger/mkp224o)), you can replace the respective files under `Server\Hosting\Config\` and restart Tor to use it.
 * Settings of the Panel are stored under `%LocalAppdata%\Panel\`. If you wish to reset the Panel or you accidentally changed an important setting and can't log in, you can just delete this folder.
 
-## Donations :coffee:
-
-Orion is an educational project. The code is undergoing documentation and is freely available.
-If you like my work, please consider donating! ^^
-
-Bitcoin <img src="https://unpkg.com/simple-icons@latest/icons/bitcoin.svg" height="24" width="24">&nbsp;&nbsp;16XsRodnoCKzAWHCELxsfQRUpfviqiWbyR
-
 ## License
 This project is licensed under the MIT License -  see the <a href="https://github.com/Raffy27/OrionServer/blob/master/LICENSE" target="_blank">LICENSE</a> file for details. For the dependencies, all rights belong to their respective owners. These should be used according to their respective licenses.
