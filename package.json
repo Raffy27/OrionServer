@@ -3,7 +3,9 @@
   "version": "1.5.7b",
   "description": "",
   "main": "app.js",
-  "bin": "app.js",
+  "bin": {
+    "orionserver": "app.js"
+  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "chalk": "^3.0.0",

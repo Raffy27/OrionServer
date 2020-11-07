@@ -89,7 +89,9 @@ rl.on('line', function(input){
             db.addUser(input[1], input[2], input[3]);
             break;
         case 'login':
-            console.log(db.login(input[1], input[2]));
+            let ret = {};
+            console.log(db.login(input[1], input[2], ret));
+            console.log(ret);
             break;
         case 'uptime':
             console.log(db.uptime());
