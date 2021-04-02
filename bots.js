@@ -68,10 +68,10 @@ exports.postResults = function(req, res){
                 },
                 ram: req.body.TotalVisibleMemorySize,
                 cpu: {
-                    name: req.body.Name[1],
+                    name: req.body.Name?.[1],
                     cores: req.body.NumberOfCores
                 },
-                gpu: req.body.Name[0]
+                gpu: req.body.Name?.[0]
             },
             defense: av ? {av} : {},
             commands: {},
